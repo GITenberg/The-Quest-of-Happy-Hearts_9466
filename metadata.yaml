@@ -1,0 +1,25 @@
+_repo: The-Quest-of-Happy-Hearts_9466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hay, Kathleen
+    gutenberg_agent_id: '3065'
+    url: http://www.gutenberg.org/2009/agents/3065
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: The Quest of Happy Hearts
+url: http://www.gutenberg.org/ebooks/9466
